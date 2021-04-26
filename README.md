@@ -29,7 +29,7 @@ Antes de instalar NitseV.2 primero prueba el bot aquí
 </p>
 
 ### Tools
-| Aplikasi | Link |
+| Apps | Link |
 |--------|--------|
 | **Termux** | [Download disini](https://play.google.com/store/apps/details?id=com.termux) |
 | **Acode** | [Download disini](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree) |
