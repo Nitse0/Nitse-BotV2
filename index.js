@@ -594,7 +594,7 @@ Hola *${pushname}*
 ‣ Número de chats: *${totalchat.length}*
 ‣ Grupo oficial
 • _${Wa1}_
-‣ Suscribete
+‣ Sigueme
 _${Ig}_
 ────────────────
 ┏━━━━━━━━━━━━━━━━━━━━
