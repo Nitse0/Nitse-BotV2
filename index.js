@@ -693,8 +693,6 @@ _${Ig}_
 ┗━━━━━━━━━━━━━━━━━━━━
 *〘 EDITING 〙*
 ┏━━━━━━━━━━━━━━━━━━━━
-┠⊷️ *${prefix}Gtav (Foto)*
-┃ _Convierte foto al estilo Gtav_
 ┠⊷️ *${prefix}Wanted (Foto)*
 ┃ _Convierte foto al estilo wanted_
 ┠⊷️ *${prefix}Drawing (Foto)*
