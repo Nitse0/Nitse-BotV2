@@ -3,7 +3,6 @@
 </p>
 <p align="center">
 <a href="https://github.com/Nitse0"><img title="Author" src="https://img.shields.io/badge/Nitse-BotV2-green?style=for-the-badge&logo=github"></a></a>
-logo=github&style=social"></a>
 </p>
 <p align="center">
 </a>
