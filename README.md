@@ -2,7 +2,7 @@
 <a href="https://github.com/Nitse0"><img title="Nitse" src="https://img.shields.io/badge/github-Nitse-orange.svg?style=social&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Nitse0"><img title="Author" src="https://img.shields.io/badge/Nitse-BotV2-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Nitse0"><img title="Author" src="https://img.shields.io/badge/Nitse-BotV2-green?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/mrfzvx12/im-lexa-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfzvx12/termux-whatsapp-bot?&style=social"></a>
 <a href="https://github.com/mrfzvx12/im-lexa-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrfzvx12/termux-whatsapp-bot?label=Watching&style=social"></a>
 <a href="https://github.com/mrfzvx12/im-lexa-v2/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/mrfzvx12/termux-whatsapp-bot?logo=github&style=social"></a>
