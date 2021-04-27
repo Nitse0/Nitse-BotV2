@@ -16,7 +16,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/mrfzvx12/im-lexa-v2"><img src="https://img.shields.io/github/repo-size/mrfzvx12/im-lexa-v2?label=Repo%20size&style=plastic"></a>
-<a href="https://github.com/mrfzvx12/im-lexa-v2"><img src="https://img.shields.io/github/search/mrfzvx12/termux-whatsapp-bot/termux-whatsapp-bot?label=Search&style=plastic"></a>
+</a>
 </p>
 
 # Lest begin's
