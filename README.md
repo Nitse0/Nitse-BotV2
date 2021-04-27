@@ -5,7 +5,7 @@
 </P>
 
 <p align="center">
-<a href="https://github.com/Nitse0"><img title="Nitse" src="https://img.shields.io/badge/github-Mrfzvx12-orange.svg?style=social&logo=github"></a>
+<a href="https://github.com/Nitse0"><img title="Nitse" src="https://img.shields.io/badge/github-Nitse-orange.svg?style=social&logo=github"></a>
 </p>
 <p align="center">
 <img src="https://gpvc.arturio.dev/mrfzvx12" />
