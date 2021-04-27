@@ -1,8 +1,3 @@
-
-<P align="center">
-
-</P>
-
 <p align="center">
 <a href="https://github.com/Nitse0"><img title="Nitse" src="https://img.shields.io/badge/github-Nitse-orange.svg?style=social&logo=github"></a>
 </p>
