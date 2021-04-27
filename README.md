@@ -27,14 +27,12 @@
 * Semua fitur work tergantung api dan apikey
 
 ### Tes bot
-Sebelum menginstal Lexa V.2 coba dulu botnya disini
+Antes de instalar Bot V.2 primerp prueba el Bot aqui 
 <p>
-<a href="https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst" target="blank"><img src="https://img.shields.io/badge/Grup Whatsapp 1-30302f?style=flat&logo=whatsapp" /></a>
-<a href="https://chat.whatsapp.com/CxAPJ6En3uSDqDX1mmBvrv" target="blank"><img src="https://img.shields.io/badge/Grup Whatsapp 2-30302f?style=flat&logo=whatsapp" /></a>
 </p>
 
 ### Tools
-| Aplikasi | Link |
+| Apps | Link |
 |--------|--------|
 | **Termux** | [Download disini](https://play.google.com/store/apps/details?id=com.termux) |
 | **Acode** | [Download disini](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree) |
@@ -73,15 +71,12 @@ Contoh default :
         "Itsmeikyapi": "Yourapikey",
 	"limit": "20",
   "memberlimit": "20",
-  "cr": "𝗠𝗮𝗱𝗲 𝗪𝗶𝘁𝗵 ❤️",
+  "cr": "owo",
   "hargalimit": "500",
   "NamaBot": "Lexa V.2",
-  "Ig": "http://www.instagram.com/mrf.zvx/",
-  "Wa1": "https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst",
-  "Wa2": "https://chat.whatsapp.com/CxAPJ6En3uSDqDX1mmBvrv",
-  "Ovo": "082223014661",
-  "Pulsa": "082223014661",
-  "Dana": "082223014661"
+  "Ovo": "50373784006",
+  "Pulsa": "50373784006",
+  "Donar": "50373784006"
 }
 ```
 
@@ -95,14 +90,7 @@ Contoh default :
 const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
 + 'FN:Mrf.zvx\n' // Nama
-+ 'ORG:Lexa bot;\n' // Nama bot
-+ 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' // Nomor owner
++ 'ORG:Nitse bot;\n' // Nama bot
++ 'TEL;type=CELL;type=VOICE;waid=6282223014661:+503 7378 4006\n' // Nomor owner
 + 'END:VCARD' 
 ```
-
-### Let's connect with me
-<p>
-<a href="http://wa.me/6282223014661" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
-<a href="http://www.instagram.com/mrf.zvx/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
-<a href="https://www.facebook.com/profile.php?id=100028409167054" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
-</p>
