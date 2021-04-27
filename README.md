@@ -31,6 +31,10 @@ Antes de instalar Bot V.2 primerp prueba el Bot aqui
 ### Install With Termux
 
 ```bash
+> termux-setup-storage
+> apt update && upgrade
+> apt install git
+> apt install bash
 > git clone https://github.com/Nitse0/Nitse-BotV2
 > cd Nitse-BotV2
 > bash install.sh
