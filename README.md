@@ -1,24 +1,24 @@
 
 <P align="center">
-    <img alt="Im Lexa" src ="https://user-images.githubusercontent.com/72728486/108575146-e06e5280-734b-11eb-9268-b91b09e8b374.gif" width="180"
+    <img alt="Nitse" src ="https://user-images.githubusercontent.com/72728486/108575146-e06e5280-734b-11eb-9268-b91b09e8b374.gif" width="180"
 
 </P>
 
 <p align="center">
-<a href="https://github.com/Nitse0"><img title="mrfzvx12" src="https://img.shields.io/badge/github-Mrfzvx12-orange.svg?style=social&logo=github"></a>
+<a href="https://github.com/Nitse0"><img title="Nitse0" src="https://img.shields.io/badge/github-Nitse0-orange.svg?style=social&logo=github"></a>
 </p>
 <p align="center">h
 <img src="https://gpvc.arturio.dev/mrfzvx12" />
-<a href="https://github.com/mrfzvx12"><img title="Author" src="https://img.shields.io/badge/Termux Whatsapp Bot-V2-orange?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mrfzvx12/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfzvx12?label=Followers&style=social"></a>
-<a href="https://github.com/mrfzvx12/im-lexa-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfzvx12/termux-whatsapp-bot?&style=social"></a>
-<a href="https://github.com/mrfzvx12/im-lexa-v2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/mrfzvx12/termux-whatsapp-bot?style=social"></a>
-<a href="https://github.com/mrfzvx12/im-lexa-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrfzvx12/termux-whatsapp-bot?label=Watching&style=social"></a>
-<a href="https://github.com/mrfzvx12/im-lexa-v2/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/mrfzvx12/termux-whatsapp-bot?logo=github&style=social"></a>
+<a href="https://github.com/Nitse0"><img title="Author" src="https://img.shields.io/badge/termux-Nitse-BotV2-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Nitse0/followers"><img title="Followers" src="https://img.shields.io/github/followers/Nitse0?label=Followers&style=social"></a>
+<a href="https://github.com/Nitse0/Nitse-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Nitse0/termux-Nitse-BotV2?&style=social"></a>
+<a href="https://github.com/Nitse0/Nitse-v2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Nitse0/termux-Nitse-BotV2?style=social"></a>
+<a href="https://github.com/Nitse0/Nitse-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nitse0/termux-Nitse-BotV2?label=Watching&style=social"></a>
+<a href="https://github.com/Nitse0/Nitse-v2/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/Nitse/termux-Nitse-BotV2?logo=github&style=social"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mrfzvx12/im-lexa-v2"><img src="https://img.shields.io/github/repo-size/mrfzvx12/im-lexa-v2?label=Repo%20size&style=plastic"></a>
-<a href="https://github.com/mrfzvx12/im-lexa-v2"><img src="https://img.shields.io/github/search/mrfzvx12/termux-whatsapp-bot/termux-whatsapp-bot?label=Search&style=plastic"></a>
+<a href="https://github.com/Nitse0/Nitse-BotV2"><img src="https://img.shields.io/github.com/Nitse0/Nitse-BotV2?label=Repo%20size&style=plastic"></a>
+<a href="https://github.com/Nitse0/Nitse-BotV2"><img src="https://img.shields.io/github/search/termux-Nitse-BotV2/termux-whatsapp-bot?label=Search&style=plastic"></a>
 </p>
 
 # Lest begin's
@@ -44,8 +44,10 @@ Antes de instalar NitseV.2 primero prueba el bot aquí
 
 ### Install With Termux
 
-```bash
-> git clone https://github.com/Nitse0/Nitse-BotV2/edit/main/README.md
+termux-setup-storage
+apt update && upgrade
+pkg install git
+> git clone https://github.com/Nitse0/Nitse-BotV2
 > cd termux-Nitse-BotV2
 > bash install.sh
 > npm start
@@ -75,7 +77,7 @@ Contoh default :
  
   "Ovo": "50373784006",
   "Pulsa": "50373784006",
-  "Dana": "50373784006"
+  "Donar": "50373784006"
 }
 ```
 
@@ -89,6 +91,6 @@ Contoh default :
 const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
 + 'FN:Mrf.zvx\n' // Nama
-+ 'ORG:Lexa bot;\n' // Nama bot
++ 'ORG:Nitse bot;\n' // Nama bot
 + 'TEL;type=CELL;type=VOICE;waid=50373784006:+503 7378 4006\n' // Nomor owner
 + 'END:VCARD'
