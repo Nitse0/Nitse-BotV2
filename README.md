@@ -15,7 +15,6 @@
 <a href="https://github.com/mrfzvx12/im-lexa-v2/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/mrfzvx12/termux-whatsapp-bot?logo=github&style=social"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mrfzvx12/im-lexa-v2"><img src="https://img.shields.io/github/repo-size/mrfzvx12/im-lexa-v2?label=Repo%20size&style=plastic"></a>
 </a>
 </p>
 
