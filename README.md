@@ -75,11 +75,8 @@ Contoh default :
   "memberlimit": "20",
   "cr": "𝗠𝗮𝗱𝗲 𝗪𝗶𝘁𝗵 ❤️",
   "hargalimit": "500",
-  "NamaBot": "Lexa V.2",
-  "Ig": "http://www.instagram.com/mrf.zvx/",
-  "Wa1": "https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst",
-  "Wa2": "https://chat.whatsapp.com/CxAPJ6En3uSDqDX1mmBvrv",
-  "Ovo": "082223014661",
+  "NamaBot": "Lexa V.2", 
+ "Ovo": "082223014661",
   "Pulsa": "082223014661",
   "Dana": "082223014661"
 }
