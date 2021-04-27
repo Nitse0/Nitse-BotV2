@@ -67,7 +67,6 @@ Contoh default :
 }
 ```
 
-* Kontak owner
 
 Tempat : ```./index.js/101```
 
