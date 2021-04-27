@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 <img src="https://gpvc.arturio.dev/mrfzvx12" />
-<a href="https://github.com/mrfzvx12"><img title="Author" src="https://img.shields.io/badge/Termux Whatsapp Bot-V2-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Nitse0"><img title="Author" src="https://img.shields.io/badge/Termux Whatsapp Bot-V2-orange?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/mrfzvx12/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfzvx12?label=Followers&style=social"></a>
 <a href="https://github.com/mrfzvx12/im-lexa-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfzvx12/termux-whatsapp-bot?&style=social"></a>
 <a href="https://github.com/mrfzvx12/im-lexa-v2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/mrfzvx12/termux-whatsapp-bot?style=social"></a>
@@ -48,8 +48,8 @@ Antes de instalar Bot V.2 primerp prueba el Bot aqui
 ### Install With Termux
 
 ```bash
-> git clone https://github.com/mrfzvx12/termux-whatsapp-bot
-> cd termux-whatsapp-bot
+> git clone https://github.com/Nitse0/Nitse-BotV2
+> cd Nitse-BotV2
 > bash install.sh
 > npm start
 ```
