@@ -9,7 +9,7 @@
 </p>
 
 
-### Tes bot
+### Test bot
 Antes de instalar Bot V.2 primerp prueba el Bot aqui 
 <p>
 </p>
@@ -50,7 +50,7 @@ Contoh default :
 ```
 {
 	"prefix": ".",
-	"ownerNumber": "6282223014661",
+	"ownerNumber": "50373784006",
 	"BarBarKey": "YourApiKey",
 	"Vhtearkey": "YourApiKey",
 	"LolHumanKey": "YourApiKey",
@@ -60,7 +60,7 @@ Contoh default :
   "memberlimit": "20",
   "cr": "owo",
   "hargalimit": "500",
-  "NamaBot": "Lexa V.2",
+  "NamaBot": "Bot V.2",
   "Ovo": "50373784006",
   "Pulsa": "50373784006",
   "Donar": "50373784006"
@@ -78,6 +78,6 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
 + 'FN:Mrf.zvx\n' // Nama
 + 'ORG:Nitse bot;\n' // Nama bot
-+ 'TEL;type=CELL;type=VOICE;waid=6282223014661:+503 7378 4006\n' // Nomor owner
++ 'TEL;type=CELL;type=VOICE;waid=50373784006:+503 7378 4006\n' // Nomor owner
 + 'END:VCARD' 
 ```
