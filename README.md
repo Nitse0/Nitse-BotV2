@@ -45,7 +45,9 @@ Antes de instalar NitseV.2 primero prueba el bot aquí
 ### Install With Termux
 
 > termux-setup-storage
+> 
 > apt update && upgrade
+> 
 > pkg install git
 > git clone https://github.com/Nitse0/Nitse-BotV2
 > cd termux-Nitse-BotV2
