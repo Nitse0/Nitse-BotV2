@@ -18,10 +18,6 @@
 </a>
 </p>
 
-# Lest begin's
-* Klik stars agar bisa terus update
-* Klik watch agar dapat notifikasi ketika update
-* Semua fitur work tergantung api dan apikey
 
 ### Tes bot
 Antes de instalar Bot V.2 primerp prueba el Bot aqui 
