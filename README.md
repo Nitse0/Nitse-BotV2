@@ -28,7 +28,7 @@ Antes de instalar Bot V.2 primerp prueba el Bot aqui
   </p>
 
 
-### Install With Termux
+### Instalar con Termux
 
 ```bash
 > termux-setup-storage
