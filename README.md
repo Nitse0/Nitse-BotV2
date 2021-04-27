@@ -1,12 +1,11 @@
 
 <P align="center">
-    <img alt="Nitse" src ="https://user-images.githubusercontent.com/72728486/108575146-e06e5280-734b-11eb-9268-b91b09e8b374.gif" width="180"
+     <img alt="Im Lexa" src ="https://user-images.githubusercontent.com/72728486/108575146-e06e5280-734b-11eb-9268-b91b09e8b374.gif" width="180"
 
 </P>
 
 <p align="center">
-<a href="https://github.com/Nitse0"><img title="Nitse0" src="https://img.shields.io/badge/github-Nitse0-orange.svg?style=social&logo=github"></a>
-</p>
+<a href="https://github.com/mrfzvx12"><img title="Author" src="https://img.shields.io/badge/Termux Whatsapp Bot-V2-orange?style=for-the-badge&logo=github"></a>
 <p align="center">h
 <img src="https://gpvc.arturio.dev/mrfzvx12" />
 <p align="center">
