@@ -585,7 +585,7 @@ Hola *${pushname}*
 ────────────────
 〘 *BOT* 〙
 ‣ Prefijo:  *「 ${prefix} 」*
-‣ Yo soy: Nitse
+‣ Yo soy: Nitse-Bot
 ‣ Conección: *Baileys*
 ‣ Tiempo encencido: *${kyun(uptime)}*
 ‣ Modo: *ON*
@@ -600,8 +600,6 @@ _${Ig}_
 ┏━━━━━━━━━━━━━━━━━━━━
 ┃─────〘 Nitse-Bot〙────
 ┃━━━━━━━━━━━━━━━━━━━━
-┠⊷️ *${prefix}Simi (Teks)*
-┃ _Simsimi Chat_
 ┠⊷️ *${prefix}Info*
 ┃ _Información del bot_
 ┠⊷️ *${prefix}Owner*
@@ -662,8 +660,6 @@ _${Ig}_
 ┠⊷️ *${prefix}Namae (Texto)*
 ┃ _Nombre ninpushnameu_
 ┠⊷️ *${prefix}Pantun*
-┃ _Poema al azar_
-┠⊷️ *${prefix}Bucin*
 ┃ _Expreción al azar_
 ┠⊷️ *${prefix}Bijak*
 ┃ _Palabras de motivasión_
@@ -690,13 +686,6 @@ _${Ig}_
 ┃ _Lista de sticker_
 ┠⊷️ *${prefix}listvid*
 ┃ _Lista de videos_
-┗━━━━━━━━━━━━━━━━━━━━
-*〘 EDITING 〙*
-┏━━━━━━━━━━━━━━━━━━━━
-┠⊷️ *${prefix}Wanted (Foto)*
-┃ _Convierte foto al estilo wanted_
-┠⊷️ *${prefix}Drawing (Foto)*
-┃ _Convierte foto a dibujo_
 ┗━━━━━━━━━━━━━━━━━━━━
 *〘 ANIME 〙*
 ┏━━━━━━━━━━━━━━━━━━━━
