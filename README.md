@@ -1,13 +1,9 @@
 
 <P align="center">
-     <img alt="Im Lexa" src ="https://user-images.githubusercontent.com/72728486/108575146-e06e5280-734b-11eb-9268-b91b09e8b374.gif" width="180"
+    <img alt="Im Lexa" src ="https://user-images.githubusercontent.com/72728486/108575146-e06e5280-734b-11eb-9268-b91b09e8b374.gif" width="180"
 
 </P>
 
-<p align="center">
-<a href="https://github.com/mrfzvx12"><img title="Author" src="https://img.shields.io/badge/Termux Whatsapp Bot-V2-orange?style=for-the-badge&logo=github"></a>
-<p align="center">h
-<img src="https://gpvc.arturio.dev/mrfzvx12" />
 <p align="center">
 <a href="https://github.com/mrfzvx12"><img title="mrfzvx12" src="https://img.shields.io/badge/github-Mrfzvx12-orange.svg?style=social&logo=github"></a>
 </p>
@@ -20,16 +16,25 @@
 <a href="https://github.com/mrfzvx12/im-lexa-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrfzvx12/termux-whatsapp-bot?label=Watching&style=social"></a>
 <a href="https://github.com/mrfzvx12/im-lexa-v2/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/mrfzvx12/termux-whatsapp-bot?logo=github&style=social"></a>
 </p>
+<p align="center">
+<a href="https://github.com/mrfzvx12/im-lexa-v2"><img src="https://img.shields.io/github/repo-size/mrfzvx12/im-lexa-v2?label=Repo%20size&style=plastic"></a>
+<a href="https://github.com/mrfzvx12/im-lexa-v2"><img src="https://img.shields.io/github/search/mrfzvx12/termux-whatsapp-bot/termux-whatsapp-bot?label=Search&style=plastic"></a>
+</p>
 
 # Lest begin's
-* Haga clic en las estrellas para que pueda continuar actualizando
-* Haga clic en reloj para recibir una notificación cuando se actualice
+* Klik stars agar bisa terus update
+* Klik watch agar dapat notifikasi ketika update
+* Semua fitur work tergantung api dan apikey
+
 ### Tes bot
-Antes de instalar NitseV.2 primero prueba el bot aquí
+Sebelum menginstal Lexa V.2 coba dulu botnya disini
+<p>
+<a href="https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst" target="blank"><img src="https://img.shields.io/badge/Grup Whatsapp 1-30302f?style=flat&logo=whatsapp" /></a>
+<a href="https://chat.whatsapp.com/CxAPJ6En3uSDqDX1mmBvrv" target="blank"><img src="https://img.shields.io/badge/Grup Whatsapp 2-30302f?style=flat&logo=whatsapp" /></a>
 </p>
 
 ### Tools
-| Apps | Link |
+| Aplikasi | Link |
 |--------|--------|
 | **Termux** | [Download disini](https://play.google.com/store/apps/details?id=com.termux) |
 | **Acode** | [Download disini](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree) |
@@ -44,18 +49,10 @@ Antes de instalar NitseV.2 primero prueba el bot aquí
 
 ### Install With Termux
 
-> termux-setup-storage
-> 
-> apt update && upgrade
-> 
-> pkg install git
-> 
-> git clone https://github.com/Nitse0/Nitse-BotV2
-> 
-> cd termux-Nitse-BotV2
-> 
+```bash
+> git clone https://github.com/mrfzvx12/termux-whatsapp-bot
+> cd termux-whatsapp-bot
 > bash install.sh
-> 
 > npm start
 ```
 
@@ -68,7 +65,7 @@ Contoh default :
 ```
 {
 	"prefix": ".",
-	"ownerNumber": "50373784006",
+	"ownerNumber": "6282223014661",
 	"BarBarKey": "YourApiKey",
 	"Vhtearkey": "YourApiKey",
 	"LolHumanKey": "YourApiKey",
@@ -76,14 +73,15 @@ Contoh default :
         "Itsmeikyapi": "Yourapikey",
 	"limit": "20",
   "memberlimit": "20",
-  "cr": "Hecho con ❤️",
+  "cr": "𝗠𝗮𝗱𝗲 𝗪𝗶𝘁𝗵 ❤️",
   "hargalimit": "500",
-  "NamaBot": "NitseV.2",
- 
- 
-  "Ovo": "50373784006",
-  "Pulsa": "50373784006",
-  "Donar": "50373784006"
+  "NamaBot": "Lexa V.2",
+  "Ig": "http://www.instagram.com/mrf.zvx/",
+  "Wa1": "https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst",
+  "Wa2": "https://chat.whatsapp.com/CxAPJ6En3uSDqDX1mmBvrv",
+  "Ovo": "082223014661",
+  "Pulsa": "082223014661",
+  "Dana": "082223014661"
 }
 ```
 
@@ -97,6 +95,14 @@ Contoh default :
 const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
 + 'FN:Mrf.zvx\n' // Nama
-+ 'ORG:Nitse bot;\n' // Nama bot
-+ 'TEL;type=CELL;type=VOICE;waid=50373784006:+503 7378 4006\n' // Nomor owner
-+ 'END:VCARD'
++ 'ORG:Lexa bot;\n' // Nama bot
++ 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' // Nomor owner
++ 'END:VCARD' 
+```
+
+### Let's connect with me
+<p>
+<a href="http://wa.me/6282223014661" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="http://www.instagram.com/mrf.zvx/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
+<a href="https://www.facebook.com/profile.php?id=100028409167054" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
+</p>
