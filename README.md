@@ -10,7 +10,7 @@
 
 
 ### Test bot
-Antes de instalar Bot V.2 primerp prueba el Bot aqui 
+Antes de instalar Bot V.2 primero prueba el Bot aqui 
 <p>
 </p>
 
@@ -39,44 +39,4 @@ Antes de instalar Bot V.2 primerp prueba el Bot aqui
 > cd Nitse-BotV2
 > bash install.sh
 > npm start
-```
-
-### Setting
-* DATA BOT
-
-Tempat : ```./data/setting```
-
-Contoh default :
-```
-{
-	"prefix": ".",
-	"ownerNumber": "50373784006",
-	"BarBarKey": "YourApiKey",
-	"Vhtearkey": "YourApiKey",
-	"LolHumanKey": "YourApiKey",
-        "Vinzapi": "Yourapikey",
-        "Itsmeikyapi": "Yourapikey",
-	"limit": "20",
-  "memberlimit": "20",
-  "cr": "owo",
-  "hargalimit": "500",
-  "NamaBot": "Bot V.2",
-  "Ovo": "50373784006",
-  "Pulsa": "50373784006",
-  "Donar": "50373784006"
-}
-```
-
-
-Tempat : ```./index.js/101```
-
-Contoh default :
-
-```
-const vcard = 'BEGIN:VCARD\n'
-+ 'VERSION:3.0\n'
-+ 'FN:Mrf.zvx\n' // Nama
-+ 'ORG:Nitse bot;\n' // Nama bot
-+ 'TEL;type=CELL;type=VOICE;waid=50373784006:+503 7378 4006\n' // Nomor owner
-+ 'END:VCARD' 
 ```
