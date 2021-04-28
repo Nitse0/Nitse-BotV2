@@ -996,7 +996,7 @@ hasil = `
 _Este bot es gratis :)_
 
 *Pulsa :* _${Pulsa}_
-*Dana :* _${Dana}_
+*Donar :* _${Dana}_
 *OVO :* _${Ovo}_`,
 Lxa.sendMessage(from, hasil, text, {
   quoted: mek
@@ -1399,7 +1399,7 @@ case 'weton':
   if (args.length < 1) return Lxa.sendMessage(from, `Ingrese la fecha-mes-año`, text, {
 quoted: mek
   })
-  if (!q.includes('-')) return  reply('Masukan tanggal-bulan-tahun dengan benar\n*Contoh : 09-09-2009*')
+  if (!q.includes('-')) return  reply('Ingrese la fecha-mes-año correctamente\n*Contoh : 09-09-2009*')
   pc = body.slice(7)
   teks1 = pc.split("-")[0];
   teks2 = pc.split("-")[1];
@@ -1720,7 +1720,7 @@ case 'triggered':
                                         })
                                     
                                              } else {
-                                                 reply('Gunakan foto!')
+                                                 reply('Usa una foto!')
                                           }
                                              break
 
@@ -2057,7 +2057,7 @@ for (let i of data.result) {
   teks += `‣ *Titulo* : ${i.title}\n‣ *link* : ${i.link}\n••••••••••••••••••••••\n`
 }
 reply(teks.trim())
-if (data.message) return reply(`La información de  *${teks} no se encontro`)
+if (data.message) return reply(`La información de  *${teks} no se encontró`)
 
 } catch {
   reply(mess.ferr)
@@ -2494,7 +2494,7 @@ case 'ytmp4':
   play = body.slice(7)
   try {
   anu = await fetchJson(`https://api.zeks.xyz/api/ytmp4?url=${play}&apikey=${viKey}`)
-  if(!isUrl(args[0]) && !args[0].includes('youtu')) return reply('Format link salah, gunakan link youtube')
+  if(!isUrl(args[0]) && !args[0].includes('youtu')) return reply('Formato de enlace incorrecto, use el enlace de youtube')
   if (anu.error) return reply(anu.error)
   infomp3 = `*Video*\n‣ *Nombre* : ${anu.result.title}\n‣ *Fuente* : ${anu.result.source}\n‣ *Tamaño* : ${anu.result.size}\n\n_Se esta mandando el video, si no llega descargue por el link_\n‣ *link* : ${anu.result.url_video}`
   buffer = await getBuffer(anu.result.thumbnail)
@@ -2874,7 +2874,7 @@ mimetype: 'video/mp4', filename: `${anu.nameInfo}.mp4`, quoted: mek
 							.toFormat('webp')
 							.save(ran)*/
 					} else {
-						reply(`Kirim gambar dengan caption ${prefix}sticker atau tag gambar yang sudah dikirim`)
+						reply(`Envíe la imagen con la etiqueta de título${prefix}o la etiqueta de imagen que se envió`)
 					}
 					break
 
@@ -2946,7 +2946,7 @@ mimetype: 'video/mp4', filename: `${anu.nameInfo}.mp4`, quoted: mek
 				break
 
 			case 'addstik':
-				if (!isQuotedSticker) return reply('Respon un sticker')
+				if (!isQuotedSticker) return reply('Responde un sticker')
 				if (!isOwner) return reply(mess.only.ownerB)
 				svst = body.slice(9)
 				if (!svst) return reply('Nombre del sticker?')
@@ -3168,7 +3168,7 @@ setTimeout(() => {
 setTimeout(() => {
 
   Lxa.sendMessage(from, buffer, image, {
-quoted: mek, caption: 'APA HAYOO'
+quoted: mek, caption: 'YABAI!'
   }) // ur cods
 }, 0) // 1000 = 1s,
 break
@@ -3392,7 +3392,7 @@ break
 						mentions(teks, mentioned, true)
 						Lxa.groupRemove(from, mentioned)
 					} else {
-						mentions(`Un admi menos @${mentioned[0].split('@')[0]} por gei!`, mentioned, true)
+						mentions(`Un admin menos @${mentioned[0].split('@')[0]} por subnormal!`, mentioned, true)
 						Lxa.groupDemoteAdmin(from, mentioned)
 					}
 					break
@@ -3428,7 +3428,7 @@ break
 						mentions(teks, mentioned, true)
 						Lxa.groupRemove(from, mentioned)
 					} else {
-						mentions(`Se elimino a un joto : @${mentioned[0].split('@')[0]}`, mentioned, true)
+						mentions(`Se elimino a un subnormal : @${mentioned[0].split('@')[0]}`, mentioned, true)
 						Lxa.groupRemove(from, mentioned)
 					}
 					break
@@ -3438,7 +3438,7 @@ break
 				  case 'listadmin':
 				    case 'adminlist':
 					if (!isGroup) return reply(mess.only.group)
-					teks = `Lista admin de admins facheros *${groupMetadata.subject}*\nTotal : ${groupAdmins.length}\n\n`
+					teks = `Lista de admins *${groupMetadata.subject}*\nTotal : ${groupAdmins.length}\n\n`
 					no = 0
 					for (let admon of groupAdmins) {
 						no += 1
@@ -3585,7 +3585,7 @@ Código : *${serialUser}*
 reply(hasil)
   console.log(color('[REGISTER]'), color(time, 'yellow'), 'Name:', color(namaUser, 'cyan'), 'Age:', color(umurUser, 'cyan'), 'Serial:', color(serialUser, 'cyan'))
 }
-tm = `verificación completa usa ${prefix}Menu para ver la lista`
+tm = `verificación completa. Usa ${prefix}menu para ver la lista`
 reply(tm)
 break
 
@@ -3597,7 +3597,7 @@ case 'closegc':
   if (!isBotGroupAdmins) return reply(mess.only.Badmin)
   var nomor = mek.participant
   const close = {
-text: `Grupo cerrado por @${nomor.split("@s.whatsapp.net")[0]}\n ahora solo los admins facheros pueden escribir`,
+text: `Grupo cerrado por @${nomor.split("@s.whatsapp.net")[0]}\n ahora solo los admins pueden escribir`,
 contextInfo: {
   mentionedJid: [nomor]
 }
@@ -3703,14 +3703,14 @@ break
 					if (!isGroupAdmins) return reply(mess.only.admin)
 					if (args.length < 1) return reply('Hmmmm')
 					if (Number(args[0]) === 1) {
-						if (isWelkom) return reply('Ya esta activo')
+						if (isWelkom) return reply('Ya está activo')
 						welkom.push(from)
 						fs.writeFileSync('./data/welkom.json', JSON.stringify(welkom))
 						reply('Se activo con exito')
 					} else if (Number(args[0]) === 0) {
 						welkom.splice(from, 1)
 						fs.writeFileSync('./data/welkom.json', JSON.stringify(welkom))
-						reply('Se desactivo con exito')
+						reply('Se desactivó con exito')
 					} else {
 						reply('1 para activar, 0 desactivar')
 					}
@@ -3749,7 +3749,7 @@ break
 
 				default:
 				if (body.startsWith(`${prefix}${command}`)) {
-  reply(`        ────────────────\nHols *${pushname}* !!!\nEse comando no esta en mi lista : *${prefix}${command}*\nUsa esto para verlos*${prefix}Menu*\n        ────────────────`)
+  reply(`        ────────────────\nHola *${pushname}* !!!\nEse comando no esta en mi lista : *${prefix}${command}*\nUsa esto para verlos*${prefix}Menu*\n        ────────────────`)
 				}
 					if (isGroup && isSimi && budy != undefined) {
 						console.log(budy)
