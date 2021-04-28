@@ -10,7 +10,7 @@
 
 
 ### Test bot
-Antes de instalar Bot V.2 primerp prueba el Bot aqui 
+Antes de instalar Bot V.2 primero prueba el Bot aqui 
 <p>
 </p>
 
