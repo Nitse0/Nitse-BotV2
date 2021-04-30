@@ -33,8 +33,8 @@ Antes de instalar Bot V.2 primero prueba el Bot aqui
 ```bash
 > termux-setup-storage
 > apt update && upgrade
-> apt install git
-> apt install bash
+> pkg install git
+> pkg install bash
 > git clone https://github.com/Nitse0/Nitse-BotV2
 > cd Nitse-BotV2
 > bash install.sh
